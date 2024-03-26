@@ -1,0 +1,154 @@
+<resources>
+    <string name="app_name">Thirty Days App</string>
+
+    <!-- Brazil -->
+    <string name="country1_name">Brazil</string>
+    <string name="country1_language">Portuguese</string>
+    <string name="country1_description">"Brazil is known for its breathtaking beaches and vibrant culture. Explore the beauty of Copacabana and Ipanema while soaking in the warmth of Brazilian hospitality."</string>
+
+    <!-- France -->
+    <string name="country2_name">France</string>
+    <string name="country2_language">French</string>
+    <string name="country2_description">"Bonjour! Discover the romance and elegance of France as you stroll along the charming streets of Paris and savor delectable pastries at quaint cafes."</string>
+
+    <!-- Japan -->
+    <string name="country3_name">Japan</string>
+    <string name="country3_language">Japanese</string>
+    <string name="country3_description">"Konnichiwa! Immerse yourself in the rich traditions and stunning landscapes of Japan. From the tranquil gardens of Kyoto to the bustling streets of Tokyo, experience the essence of Japanese culture."</string>
+
+    <!-- Italy -->
+    <string name="country4_name">Italy</string>
+    <string name="country4_language">Italian</string>
+    <string name="country4_description">"Ciao! Indulge in the flavors of Italy as you feast on mouthwatering pizza and pasta dishes. Explore the historic landmarks of Rome and marvel at the beauty of Florence's Renaissance architecture."</string>
+
+    <!-- Day 5: India -->
+    <string name="country5_name">India</string>
+    <string name="country5_language">Hindi</string>
+    <string name="country5_description">"Namaste! Delve into the vibrant colors and spicy flavors of India. Experience the hustle and bustle of Mumbai's markets and the serenity of the Taj Mahal in Agra."</string>
+
+    <!-- Day 6: Spain -->
+    <string name="country6_name">Spain</string>
+    <string name="country6_language">Spanish</string>
+    <string name="country6_description">"Hola! Discover the passion and zest for life in Spain. From flamenco dancing in Seville to sampling tapas in Barcelona, immerse yourself in the rich tapestry of Spanish culture."</string>
+
+    <!-- Day 7: Australia -->
+    <string name="country7_name">Australia</string>
+    <string name="country7_language">English</string>
+    <string name="country7_description">"G'day mate! Explore the rugged beauty and unique wildlife of Australia. Dive into the Great Barrier Reef and embark on an outback adventure in the vast wilderness."</string>
+
+    <!-- Day 8: China -->
+    <string name="country8_name">China</string>
+    <string name="country8_language">Mandarin</string>
+    <string name="country8_description">"Nǐ hǎo! Journey through the ancient wonders and modern marvels of China. Walk along the Great Wall and be awed by the towering skyscrapers of Shanghai."</string>
+
+    <!-- Day 9: Egypt -->
+    <string name="country9_name">Egypt</string>
+    <string name="country9_language">Arabic</string>
+    <string name="country9_description">"Marhaba! Experience the mystique and grandeur of ancient Egypt. Marvel at the towering pyramids of Giza and cruise along the serene waters of the Nile River."</string>
+
+    <!-- Day 10: Germany -->
+    <string name="country10_name">Germany</string>
+    <string name="country10_language">German</string>
+    <string name="country10_description">"Guten Tag! Discover the rich history and cultural diversity of Germany. Explore the fairy-tale castles of Bavaria and indulge in hearty German cuisine."</string>
+
+    <!-- Day 11: Canada -->
+    <string name="country11_name">Canada</string>
+    <string name="country11_language">English</string>
+    <string name="country11_description">"Hello! Explore the vast wilderness and multicultural cities of Canada. From the stunning Rocky Mountains to the bustling streets of Toronto, there's something for everyone in the Great White North."</string>
+
+    <!-- Day 12: Greece -->
+    <string name="country12_name">Greece</string>
+    <string name="country12_language">Greek</string>
+    <string name="country12_description">"Yassou! Immerse yourself in the beauty and mythology of Greece. Wander through the ancient ruins of Athens and relax on the pristine beaches of the Greek Islands."</string>
+
+    <!-- Day 13: Russia -->
+    <string name="country13_name">Russia</string>
+    <string name="country13_language">Russian</string>
+    <string name="country13_description">"Zdravstvuyte! Embark on a journey through the vast landscapes and rich history of Russia. Visit the majestic palaces of St. Petersburg and explore the iconic Red Square in Moscow."</string>
+
+    <!-- Day 14: Mexico -->
+    <string name="country14_name">Mexico</string>
+    <string name="country14_language">Spanish</string>
+    <string name="country14_description">"¡Hola! Dive into the vibrant colors and flavors of Mexico. Indulge in authentic street tacos and explore the ancient ruins of Chichen Itza."</string>
+
+    <!-- Day 15: United Kingdom -->
+    <string name="country15_name">United Kingdom</string>
+    <string name="country15_language">English</string>
+    <string name="country15_description">"Hello! Explore the charm and history of the United Kingdom. Visit iconic landmarks such as Big Ben and Buckingham Palace while sipping tea in quaint English villages."</string>
+
+    <!-- Day 16: South Africa -->
+    <string name="country16_name">South Africa</string>
+    <string name="country16_language">English</string>
+    <string name="country16_description">"Hello! Discover the diverse landscapes and rich cultural heritage of South Africa. Embark on a safari adventure in Kruger National Park and explore the vibrant streets of Cape Town."</string>
+
+    <!-- Day 17: Thailand -->
+    <string name="country17_name">Thailand</string>
+    <string name="country17_language">Thai</string>
+    <string name="country17_description">"Sawasdee! Experience the exotic sights and flavors of Thailand. Visit ornate temples in Bangkok and relax on the stunning beaches of Phuket."</string>
+
+    <!-- Day 18: Argentina -->
+    <string name="country18_name">Argentina</string>
+    <string name="country18_language">Spanish</string>
+    <string name="country18_description">"Hola! Delve into the passion and rhythm of Argentina. Tango through the streets of Buenos Aires and marvel at the natural wonder of Iguazu Falls."</string>
+
+    <!-- Day 19: Turkey -->
+    <string name="country19_name">Turkey</string>
+    <string name="country19_language">Turkish</string>
+    <string name="country19_description">"Merhaba! Explore the crossroads of East and West in Turkey. Wander through the ancient streets of Istanbul and indulge in delicious Turkish cuisine."</string>
+
+    <!-- Day 20: New Zealand -->
+    <string name="country20_name">New Zealand</string>
+    <string name="country20_language">English</string>
+    <string name="country20_description">"Kia ora! Discover the breathtaking landscapes and outdoor adventures of New Zealand. Explore the stunning fjords of Milford Sound and hike through the lush forests of the North Island."</string>
+
+    <!-- Day 21: Sweden -->
+    <string name="country21_name">Sweden</string>
+    <string name="country21_language">Swedish</string>
+    <string name="country21_description">"Hej! Immerse yourself in the beauty and tranquility of Sweden. Explore the picturesque islands of Stockholm's archipelago and experience the midnight sun in Lapland."</string>
+
+    <!-- Day 22: Peru -->
+    <string name="country22_name">Peru</string>
+    <string name="country22_language">Spanish</string>
+    <string name="country22_description">"Hola! Journey through the ancient ruins and vibrant markets of Peru. Explore the majestic Machu Picchu and sample traditional Peruvian cuisine."</string>
+
+    <!-- Day 23: South Korea -->
+    <string name="country23_name">South Korea</string>
+    <string name="country23_language">Korean</string>
+    <string name="country23_description">"Annyeonghaseyo! Discover the dynamic culture and modern marvels of South Korea. Shop till you drop in the bustling streets of Seoul and relax in traditional Korean spas."</string>
+
+    <!-- Day 24: Netherlands -->
+    <string name="country24_name">Netherlands</string>
+    <string name="country24_language">Dutch</string>
+    <string name="country24_description">"Hallo! Experience the charm and innovation of the Netherlands. Cruise along the scenic canals of Amsterdam and marvel at the colorful tulip fields."</string>
+
+    <!-- Day 25: Switzerland -->
+    <string name="country25_name">Switzerland</string>
+    <string name="country25_language">German</string>
+    <string name="country25_description">"Hallo! Explore the stunning alpine landscapes and pristine lakes of Switzerland. Ski down the slopes of the Swiss Alps and indulge in delicious Swiss chocolate."</string>
+
+    <!-- Day 26: Chile -->
+    <string name="country26_name">Chile</string>
+    <string name="country26_language">Spanish</string>
+    <string name="country26_description">"Hola! Delve into the natural beauty and diverse landscapes of Chile. Trek through the rugged terrain of Patagonia and explore the otherworldly landscapes of the Atacama Desert."</string>
+
+    <!-- Day 27: Vietnam -->
+    <string name="country27_name">Vietnam</string>
+    <string name="country27_language">Vietnamese</string>
+    <string name="country27_description">"Xin chào! Experience the hustle and bustle of Vietnam's vibrant cities and the serenity of its rural landscapes. Cruise through the limestone karsts of Halong Bay and savor the flavors of Vietnamese street food."</string>
+
+    <!-- Day 28: Portugal -->
+    <string name="country28_name">Portugal</string>
+    <string name="country28_language">Portuguese</string>
+    <string name="country28_description">"Olá! Discover the rich history and coastal beauty of Portugal. Explore the winding streets of Lisbon and immerse yourself in the vibrant atmosphere of Porto."</string>
+
+    <!-- Day 29: Morocco -->
+    <string name="country29_name">Morocco</string>
+    <string name="country29_language">Arabic</string>
+    <string name="country29_description">"Marhaba! Explore the vibrant markets and intricate architecture of Morocco. Lose yourself in the maze-like streets of Marrakech and journey into the Sahara Desert for an unforgettable adventure."</string>
+
+    <!-- Day 30: Vietnam -->
+    <string name="country30_name">Vietnam</string>
+    <string name="country30_language">Vietnamese</string>
+    <string name="country30_description">"Xin chào! Experience the rich culture and stunning landscapes of Vietnam. From the ancient temples of Hanoi to the lush rice paddies of Sapa, Vietnam offers a feast for the senses."</string>
+
+</resources>
